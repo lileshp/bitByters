@@ -61,3 +61,71 @@ The goal of this batch is to:
 ### And Many more to come...
 
 ## 🗂️ Repository Structure
+📦 Industry-Ready-Batch
+┣ 📂 Python
+┣ 📂 OOP
+┣ 📂 DSA
+┣ 📂 System-Design
+┣ 📂 Projects
+┣ 📂 Practice-Questions
+┗ 📂 Mock-Interviews
+
+---
+
+## 🧠 Learning Approach
+
+This batch focuses on:
+
+- 📌 Concept Clarity
+- 📌 Hands-on Coding
+- 📌 Real-world Examples
+- 📌 Interview Preparation
+- 📌 Consistency & Practice
+
+---
+
+## 🛠️ How to Use This Repository
+
+1. Follow the folders topic-wise
+2. Revise notes regularly
+3. Practice coding problems daily
+4. Work on projects seriously
+5. Prepare for mock interviews
+
+---
+
+## 🔥 Who Is This For?
+
+- Beginners starting programming
+- Students preparing for placements
+- Anyone who wants strong fundamentals
+- Future software developers 👨‍💻👩‍💻
+
+---
+
+## 📈 Outcome
+
+After completing this batch, you will:
+
+✅ Understand core programming concepts  
+✅ Solve DSA problems confidently  
+✅ Build real-world projects  
+✅ Be ready for technical interviews  
+✅ Adapt to any development environment  
+
+---
+
+## 📢 Note
+
+Consistency is the key 🔑  
+Follow the process, trust the learning, and success will follow 🚀
+
+---
+
+## 👨‍🏫 Mentor
+
+Guided with the vision to make students **industry-ready** and **future-proof developers**.
+
+---
+
+⭐ Don't forget to star this repo if you find it helpful!
